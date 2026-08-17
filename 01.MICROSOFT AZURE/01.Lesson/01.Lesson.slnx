@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/01.Documents/">
+    <File Path="01.Documents/01_dotnettutorials_net_lesson_azure_cloud_computing.pdf" />
+    <File Path="01.Documents/02_dotnettutorials_net_lesson_asp_net_core_web_api_and_sql_serv.pdf" />
+    <File Path="01.Documents/03_dotnettutorials_net_lesson_asp_net_core_web_api_project_with.pdf" />
+    <File Path="01.Documents/04_dotnettutorials_net_lesson_preparing_the_project_for_azure_d.pdf" />
+  </Folder>
+  <Folder Name="/02.WebApi/">
+    <Project Path="02.WebApi/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
+  </Folder>
+  <Folder Name="/03.WebApi - Production/">
+    <Project Path="03.WebApi - Production/ProductManagementApi.Tests/ProductManagementApi.Tests.csproj" Id="0222fa3a-e504-463e-b4ed-99508b198d63" />
+    <Project Path="03.WebApi - Production/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
+  </Folder>
+</Solution>
