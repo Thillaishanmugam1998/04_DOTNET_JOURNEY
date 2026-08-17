@@ -4,6 +4,13 @@
     <File Path="01.Documents/02_dotnettutorials_net_lesson_asp_net_core_web_api_and_sql_serv.pdf" />
     <File Path="01.Documents/03_dotnettutorials_net_lesson_asp_net_core_web_api_project_with.pdf" />
     <File Path="01.Documents/04_dotnettutorials_net_lesson_preparing_the_project_for_azure_d.pdf" />
+    <File Path="01.Documents/05_dotnettutorials_net_lesson_how_to_create_an_azure_account.pdf" />
+    <File Path="01.Documents/06_dotnettutorials_net_lesson_subscription_in_microsoft_azure.pdf" />
+    <File Path="01.Documents/07_dotnettutorials_net_lesson_resource_group_in_microsoft_azure.pdf" />
+    <File Path="01.Documents/08_dotnettutorials_net_lesson_azure_services_required_for_manua.pdf" />
+    <File Path="01.Documents/09_dotnettutorials_net_lesson_deploying_asp_net_core_web_api_on.pdf" />
+    <File Path="01.Documents/10_dotnettutorials_net_lesson_migrating_the_existing_sql_server.pdf" />
+    <File Path="01.Documents/11_dotnettutorials_net_lesson_connecting_the_deployed_web_api_w.pdf" />
   </Folder>
   <Folder Name="/02.WebApi/">
     <Project Path="02.WebApi/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
