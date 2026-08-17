@@ -55,3 +55,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/01.MICROSOFT AZURE/01.Lesson/.vs/01.Lesson.slnx
+/01.MICROSOFT AZURE/01.Lesson/02.WebApi/ProductManagementApi/.vs
+/01.MICROSOFT AZURE/01.Lesson/03.WebApi - Production/ProductManagementApi/.vs
