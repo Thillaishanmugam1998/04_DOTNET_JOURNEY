@@ -20,6 +20,9 @@
     <Project Path="03.WebApi - Production/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
   </Folder>
   <Folder Name="/04.Sample WebApi - Azure/">
-    <Project Path="Bank-Account API/Bank-Account API.csproj" Id="91ace581-12ec-4428-b785-dfed851c99d3" />
+    <Project Path="04.Sample WebApi - Azure/Bank-Account API.csproj" />
+  </Folder>
+  <Folder Name="/05.Sample WebApi - Without EF Core/">
+    <Project Path="05. Bank-Account API/05. Bank-Account API.csproj" />
   </Folder>
 </Solution>
