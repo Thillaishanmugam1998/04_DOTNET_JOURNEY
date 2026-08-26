@@ -12,17 +12,20 @@
     <File Path="01.Documents/10_dotnettutorials_net_lesson_migrating_the_existing_sql_server.pdf" />
     <File Path="01.Documents/11_dotnettutorials_net_lesson_connecting_the_deployed_web_api_w.pdf" />
   </Folder>
-  <Folder Name="/02.WebApi/">
-    <Project Path="02.WebApi/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
+  <Folder Name="/02.WebApi - Productwebapi  (L)/">
+    <Project Path="02.WebApi - Productwebapi  (L)/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
   </Folder>
-  <Folder Name="/03.WebApi - Production/">
-    <Project Path="03.WebApi - Production/ProductManagementApi.Tests/ProductManagementApi.Tests.csproj" Id="0222fa3a-e504-463e-b4ed-99508b198d63" />
-    <Project Path="03.WebApi - Production/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
+  <Folder Name="/03.WebApi - ProductWebApi (A)/">
+    <Project Path="03.WebApi - ProductWebApi (A)/ProductManagementApi.Tests/ProductManagementApi.Tests.csproj" />
+    <Project Path="03.WebApi - ProductWebApi (A)/ProductManagementApi/ProductManagementApi/ProductManagementApi.csproj" />
   </Folder>
-  <Folder Name="/04.Sample WebApi - Azure/">
-    <Project Path="04.Sample WebApi - Azure/Bank-Account API.csproj" />
+  <Folder Name="/04.WebApi - BankWebAPI (L)/">
+    <Project Path="04.WebApi - BankWebAPI (L)/Bank-Account API.csproj" />
   </Folder>
-  <Folder Name="/05.Sample WebApi - Without EF Core/">
-    <Project Path="05. Bank-Account API/05. Bank-Account API.csproj" />
+  <Folder Name="/05.WebApi - BankWebApi (Without EF Core)/">
+    <Project Path="05.WebApi - BankWebApi (Without EF Core)/05. Bank-Account API.csproj" />
+  </Folder>
+  <Folder Name="/06.WebAPI - BankWebApi (A)/">
+    <Project Path="06.WebAPI - BankWebApi (A)/Bank-Account API.csproj" />
   </Folder>
 </Solution>
