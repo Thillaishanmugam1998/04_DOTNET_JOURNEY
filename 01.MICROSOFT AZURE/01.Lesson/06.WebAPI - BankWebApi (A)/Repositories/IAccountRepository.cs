@@ -8,7 +8,7 @@ namespace Bank_Account_API.Repositories
 
         public Task<IEnumerable<Accounts>> GetAccountsAsync();
 
-        public Task<Accounts> GetAccountsByIdAsync(int id);
+        public Task<Accounts?> GetAccountsByIdAsync(int id);
 
         public Task<Accounts> AddAccountAsync(Accounts account);
 

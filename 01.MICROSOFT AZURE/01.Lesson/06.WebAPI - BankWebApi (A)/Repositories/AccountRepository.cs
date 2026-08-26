@@ -1,4 +1,4 @@
-﻿using Bank_Account_API.Data;
+using Bank_Account_API.Data;
 using Bank_Account_API.DTOs;
 using Bank_Account_API.Models;
 using Microsoft.EntityFrameworkCore;
@@ -20,7 +20,7 @@ namespace Bank_Account_API.Repositories
             return accounts;
         }
 
-        public async Task<Accounts> GetAccountsByIdAsync(int id)
+        public async Task<Accounts?> GetAccountsByIdAsync(int id)
         {
             var account = await _context.Accounts.FindAsync(id);
             return account;

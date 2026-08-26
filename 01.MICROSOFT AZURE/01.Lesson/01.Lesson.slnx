@@ -28,4 +28,10 @@
   <Folder Name="/06.WebAPI - BankWebApi (A)/">
     <Project Path="06.WebAPI - BankWebApi (A)/Bank-Account API.csproj" />
   </Folder>
+  <Folder Name="/07.Logger - Examples/">
+    <Project Path="07.Logger - Examples/CustomLogger/CustomLogger.csproj" />
+    <Project Path="07.Logger - Examples/ILoggerExample/ILoggerExample.csproj" />
+    <Project Path="07.Logger - Examples/SerilogExample/SerilogExample.csproj" />
+    <Project Path="07.Logger - Examples/SerilogStandard/SerilogStandard.csproj" />
+  </Folder>
 </Solution>
