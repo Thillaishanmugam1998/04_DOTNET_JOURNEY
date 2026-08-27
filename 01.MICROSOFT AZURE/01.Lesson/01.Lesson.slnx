@@ -29,9 +29,18 @@
     <Project Path="06.WebAPI - BankWebApi (A)/Bank-Account API.csproj" />
   </Folder>
   <Folder Name="/07.Logger - Examples/">
-    <Project Path="07.Logger - Examples/CustomLogger/CustomLogger.csproj" />
-    <Project Path="07.Logger - Examples/ILoggerExample/ILoggerExample.csproj" />
-    <Project Path="07.Logger - Examples/SerilogExample/SerilogExample.csproj" />
-    <Project Path="07.Logger - Examples/SerilogStandard/SerilogStandard.csproj" />
+    <File Path="07.Logger - Examples/Logger_Comparison.md" />
+  </Folder>
+  <Folder Name="/07.Logger - Examples/01.CustomLogger/">
+    <Project Path="07.Logger - Examples/01.CustomLogger/CustomLogger/CustomLogger.csproj" Id="708b55b1-c107-423b-a404-d976208b821d" />
+  </Folder>
+  <Folder Name="/07.Logger - Examples/02.DefaultLoggerSample/">
+    <Project Path="07.Logger - Examples/02.DefaultILoggerSample/DefaultILoggerSample/DefaultILoggerSample.csproj" Id="9ebda1e3-375e-4599-b207-b8bbb987f344" />
+  </Folder>
+  <Folder Name="/07.Logger - Examples/03.DefaultLoggerFileLogger/">
+    <Project Path="07.Logger - Examples/03.DefaultILoggerFileLogger/DefaultILoggerFileLogger/DefaultILoggerFileLogger.csproj" Id="0c5b2018-04c6-4c6f-9ff3-3a7e554a609f" />
+  </Folder>
+  <Folder Name="/07.Logger - Examples/SerilogApp/">
+    <Project Path="07.Logger - Examples/04.Serilog/SerilogApp/SerilogApp.csproj" />
   </Folder>
 </Solution>
