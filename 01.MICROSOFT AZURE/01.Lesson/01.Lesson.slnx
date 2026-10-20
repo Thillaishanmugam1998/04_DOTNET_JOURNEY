@@ -26,6 +26,7 @@
     <Project Path="05.WebApi - BankWebApi (Without EF Core)/05. Bank-Account API.csproj" />
   </Folder>
   <Folder Name="/06.WebAPI - BankWebApi (A)/">
+    <Project Path="06.WebAPI - BankWebApi (A).Tests/Bank-Account API.Tests.csproj" />
     <Project Path="06.WebAPI - BankWebApi (A)/Bank-Account API.csproj" />
   </Folder>
   <Folder Name="/07.Logger - Examples/">
